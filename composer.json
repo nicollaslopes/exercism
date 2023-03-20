@@ -1,0 +1,15 @@
+{
+    "name": "nikizera/exercism",
+    "autoload": {
+        "psr-4": {
+            "Nikizera\\Exercism\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicollaslopes",
+            "email": "nicollaslopesn@gmail.com"
+        }
+    ],
+    "require": {}
+}
